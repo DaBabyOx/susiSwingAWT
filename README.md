@@ -10,4 +10,4 @@ do note that I'm recreating this using Java **SWING + AWT**, as for **JavaFX**, 
 
 If you have any questions, feel free to chat me on Discord: **Ox.**
 
-![Alt Text](https://tenor.com/cfrre6CzfHT.gif)
+<img align="right" alt="It is fine" width="800" src="https://tenor.com/view/april-fools-joke-dog-its-fine-this-is-not-gif-1750056094467610487">
